@@ -3,6 +3,9 @@ dist/
 obj/
 bin/
 *.zip
+*.mp4
+steam-guide.txt
 *.log
 .vs/
 *.user
+Screenshot*.png

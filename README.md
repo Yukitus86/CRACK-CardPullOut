@@ -16,7 +16,7 @@
 [Troubleshooting](#troubleshooting) ·
 [Report a bug](https://github.com/Yukitus86/CRACK-CardPullOut/issues/new)
 
-<img src="assets/cable.webp" alt="ID badge in the reader with the coiled cable" width="640">
+<img src="assets/demo.webp" alt="Inserting the badge, walking away, and the cable pulling it back out" width="720">
 
 </div>
 
@@ -25,6 +25,10 @@
 In vanilla CRACK your ID badge stays in the badge reader until you walk back and press **E**. The coiled cable just
 holds you in place. **CardPullOut** makes the cable behave like a real one: walk away, the cable goes taut, and the badge
 pops out of the reader and snaps back to your pocket.
+
+<p align="center">
+  <img src="assets/cable.webp" alt="ID badge in the reader with the coiled cable" width="560">
+</p>
 
 ## Features
 

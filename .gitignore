@@ -1,0 +1,8 @@
+build/
+dist/
+obj/
+bin/
+*.zip
+*.log
+.vs/
+*.user

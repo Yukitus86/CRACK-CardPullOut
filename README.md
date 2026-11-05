@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" alt="CardPullOut logo" width="160">
+
 # CardPullOut
 
 **Walk away and the cable pulls your badge out: a CRACK mod**
